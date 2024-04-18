@@ -1,12 +1,13 @@
 
-# Academic Pages
+# To know more about me and my work, delve right on.//
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-Academic Pages is a Github Pages template for academic websites.
+Hey there, I have deployed my Website using Academic Pages Template by Minimal Themes - Jekyll.
+If you want to build one for yourself, here's some tips to help you play and tweak with your web-content. Don't worry, not the boring **"md"** from the OG repo:))//  
 
 
-# Getting Started
+# How to Get Started;
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
@@ -18,7 +19,7 @@ Academic Pages is a Github Pages template for academic websites.
 
 See more info at https://academicpages.github.io/
 
-## Running Locally
+## If you're a Systems' Guy who'd like to run it locally;
 
 When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
@@ -28,13 +29,13 @@ When you are initially working your website, it is very useful to be able to pre
 1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
 
-# Maintenance 
+# Routine checks for smooth runs 
 
 Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
 
 This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
 
-## Bugfixes and enhancements
+## Bugfixes and enhancements (the usual stuff)
 
 If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
 
