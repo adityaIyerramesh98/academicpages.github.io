@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Short-Snip about me."
+title: "Who am I."
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,8 +11,8 @@ Hey, Aditya here. If you viewing this page, then am so glad that you took attent
 
 Am a 25 y/o multifaceted individual with a passion for **Data-Engineering** with a sufficiently good academic track record. Having served as a Project Associate at IIT Madras, the experience delved into the intricate world of collaborative project management and made me discern the gravity of deadlines. But, it doesn't end there. During my stint as a freelance software coder, I had lent (and also learnt many) skills to diverse teams, including projects with in the **computational-physics** domain comprising mainly of **2D Supersonic Flows**, **Shockwaves** and **combustion data-science** fostering innovation through GitHub contributions and informative pull requests. Also took part in an Git’s Archive Program. At the present time-being, am honing-up and broadening my horizon in the field of backend software development along with data-engineering tools to smoothly on-board into **Data-centric SaaS** domain.
 
-Change-of-fields steadied my involvement!
-------
+Change-of-fields steadied my involvement:/
+======
 Swapping gears, am technically adept and dextrous in a diverse array of machine languages and frameworks, some of which spanning Python, Java, Javascript, Matlab, C-C#, R, and Go. Going hand-in-hand, am fortunate to hone a versatile skill set that enables them to tackle a multitude of backend development concerns. Leveraging a robust arsenal of toolchain technologies, am good at utilizing frameworks such as TensorFlow, Keras, PyTorch, SciKit Learn, Pandas, NumPy, and Git for efficient development and version control.
 
 In the realm of web development, I wield a decent and formidable repository of tools, including Django, ASP.NET, FastAPI, and Express.js, enabling me to build scalable and responsive web applications. Also my petit-proficiency extends to frontend development, where am sound in crafting engaging user interfaces using React.js, Angular.js, and CSS subject to user-requirements.
@@ -25,7 +25,7 @@ Transitioning seamlessly from a full-fledged Chemical Engineer into CS-Data Engi
 
 Even amidst my professional endeavors, I did not completely let go of my ultimate goal of pursuing higher academic aspirations. Still am in the (_quest of finding the oyster_) by preparing my doctoral applications to a handful of swanky universities spanning across but not limited to US, Japan and Korea Republic. While in process, I got to engage in some real-noteworthy and super-informative discussions with a couple of professors ranging in-between comp-physics and aero domain.
 
-Straight outta my Diary!
+Straight outta my Diary//
 ======
 Juggling such tick-boxes, am also navigating the labyrinth of government entrance exams, testing my tenacity. Yet, amidst this whirlwind of goals and races against time, I find solace in the some truly amazing works (books) of David Eagleman, John Grisham, Cal Newport, Steven Pinker, Daniel Kahneman and a lot more. Interestingly, I possess a rare trait while seeing all such works in virtual action in the form of screenplays which deluges me into the captivating world of Hollywood films, distinctly drawn to those from the late 90s and early 2000s. 
 
