@@ -24,9 +24,8 @@ author:
   avatar           : "Temple_pic_compressed.jpeg"
   name             : "Aditya (Iyer) Ramesh"
   pronouns         : # example: "he/him"  
-  bio              : "Data Science Engineer"
+  bio              : "Data Science Engineer at Ineuron.ai"
   location         : "Chennai, Tamilnadu, India"
-  employer         : "Ineuron.ai"
   email            : "iyer.aditya98@yahoo.com" 
 
   # Repositories and software development
@@ -35,7 +34,6 @@ author:
   stackoverflow    : "22853209/aditya"    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -44,7 +42,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "rameshaditya"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -52,7 +50,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : "quirkyAR7"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
