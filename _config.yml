@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Home"
-title_separator          : "-"
+title_separator          : "----"
 name                     : &name "Aditya"
 description              : &description "personal description"
 url                      : https://adityaIyerramesh98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -21,7 +21,7 @@ repository               : "Home/adityaIyerramesh98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Temple_pic_compressed.jpeg"
   name             : "Aditya (Iyer) Ramesh"
   pronouns         : # example: "he/him"  
   bio              : "Data Science Engineer"
