@@ -37,6 +37,6 @@ Straight outta my Diary//
 ======
 Juggling such tick-boxes, am also navigating the labyrinth of government entrance exams, testing my tenacity. Yet, amidst this whirlwind of goals and races against time, I find solace in the some truly amazing works (books) of David Eagleman, John Grisham, Cal Newport, Steven Pinker, Daniel Kahneman and a lot more. 
 
-Interestingly, I possess a rare trait while seeing all such works in virtual action in the form of screenplays which deluges me into the captivating world of Hollywood films, distinctly drawn to those from the late 90s and early 2000s. 
+Interestingly, I possess a rare trait while seeing all such works in virtual action in the form of screenplays which deluges me into the captivating world of Hollywood films, distinctly drawn to those from the late 1990s and early 2000s. 
 
-Beyond the realms of academia and technology, I also find true joy in the intricacies of carnatic music and the art of lyricism. A principled individual, I navigate life with integrity and authenticity, steering clear of pretense. In essence, am not less than a straight-shooter with a penchant for consistent work and a fervent pursuit of their passions.
+Beyond the realms of academia and technology, I also find true joy in the intricacies of carnatic music and the art of lyricism. A principled individual, I navigate life with integrity and authenticity, steering clear of pretense. In essence, am not less than a straight-shooter with a penchant for consistent work and a fervent pursuit of my passion(s).
