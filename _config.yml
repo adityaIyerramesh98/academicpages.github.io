@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Home"
-title_separator          : "----"
+title_separator          : "---"
 name                     : &name "Aditya"
 description              : &description "personal description"
-url                      : https://adityaIyerramesh98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://adityaIyerramesh98.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "https://adityaiyerramesh98.github.io/" # the subpath of your site, e.g. "/blog"
 repository               : "Home/adityaIyerramesh98.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -34,29 +34,11 @@ author:
   stackoverflow    : "22853209/aditya"    
 
   # Social media
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
   linkedin         : "rameshaditya"
   mastodon         : # URL
   medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
   twitter          : "quirkyAR7"  # Replace this with your X / Twitter handle
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
 
 
 # Site Settings
@@ -266,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: India/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
