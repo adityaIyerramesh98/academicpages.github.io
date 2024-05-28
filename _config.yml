@@ -23,21 +23,19 @@ author:
   # Biographic information
   avatar           : "profile_pic_new.jpg"
   name             : "Aditya (Iyer) Ramesh"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Data Science Engineer at Ineuron.ai"
   location         : "Chennai, Tamilnadu, India"
   email            : "iyer.aditya98@yahoo.com" 
 
   # Repositories and software development
   github           : "adityaIyerramesh98"
-  kaggle           : "adityaramesh98"  
-  stackoverflow    : "22853209/aditya"    
+  linkedin         : "rameshaditya"
+  kaggle           : "adityaramesh98"    
 
   # Social media
-  linkedin         : "rameshaditya"
-  mastodon         : # URL
-  medium           : # URL
   twitter          : "quirkyAR7"  # Replace this with your X / Twitter handle
+  medium           : # URL
   youtube          : # Username
 
 
